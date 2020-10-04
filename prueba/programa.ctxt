@@ -1,5 +1,13 @@
+<<<<<<< HEAD
 #BlueJ class context
 comment0.target=programa
 comment1.params=args
 comment1.target=void\ main(java.lang.String[])
 numComments=2
+=======
+#BlueJ class context
+comment0.target=programa
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
+>>>>>>> abd24c91a9573708e33f8f5844596704b60cf920
