@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Estado
+comment1.params=cajamusical
+comment1.target=java.lang.String\ Reproducir(CajaMusical)
+comment2.params=cajamusical
+comment2.target=java.lang.String\ Pausar(CajaMusical)
+numComments=3

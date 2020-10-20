@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=FugacesRecuerdos
+comment1.params=tareaActual\ estadoTarea\ cantTereasConcluidas
+comment1.target=FugacesRecuerdos(java.lang.String,\ java.lang.String,\ int)
+comment2.params=
+comment2.target=java.lang.String\ getTareaActual()
+comment3.params=
+comment3.target=java.lang.String\ getEstadoTarea()
+comment4.params=
+comment4.target=int\ getCantTareasConcluidas()
+comment5.params=tareaActual
+comment5.target=void\ setTareaActual(java.lang.String)
+comment6.params=estadoTarea
+comment6.target=void\ setEstadoTarea(java.lang.String)
+comment7.params=cantTareasConcluidas
+comment7.target=void\ setCantTareasConcluidas(int)
+numComments=8
