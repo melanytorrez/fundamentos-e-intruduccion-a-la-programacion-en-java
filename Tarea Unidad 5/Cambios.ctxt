@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Cambios
+comment1.params=cantCambios
+comment1.target=Cambios(int)
+comment2.params=
+comment2.target=int\ getCantCambios()
+comment3.params=
+comment3.target=void\ setCantCambios()
+numComments=4

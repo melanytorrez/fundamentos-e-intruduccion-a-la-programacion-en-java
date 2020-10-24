@@ -1,9 +1,9 @@
-public class Juego {
+public class juego {
     private int posX;
     private int posY;
     private int cantIntentos;
     //5     ---- 5 ----> (0)
-    public Juego(){
+    public juego(){
         cantIntentos=3;
         posX= (int)(Math.random()*11);
         posY= (int)(Math.random()*11);
@@ -20,8 +20,12 @@ public class Juego {
                 res="X: esta lejos";
             }else{
                 res="X: esta cerca";
+                if(diferenciaY>2){
+                    res="Y: esta lejos";
+                }else{
+                    res="Y: esta cerca";
+                }
             }
-            res=res+" Y: no se sabe";
         }
         
         return res;

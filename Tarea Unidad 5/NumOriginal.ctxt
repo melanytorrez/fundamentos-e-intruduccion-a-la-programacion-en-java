@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=NumOriginal
+comment1.params=digito1\ digito2\ digito3
+comment1.target=NumOriginal(int,\ int,\ int)
+comment2.params=
+comment2.target=int\ getDig1()
+comment3.params=
+comment3.target=int\ getDig2()
+comment4.params=
+comment4.target=int\ getDig3()
+numComments=5
