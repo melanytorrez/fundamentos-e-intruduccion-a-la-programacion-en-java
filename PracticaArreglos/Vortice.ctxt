@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Vortice
+comment1.params=
+comment1.target=Vortice()
+comment2.params=valor
+comment2.target=boolean\ agregarElemento(int)
+comment3.params=
+comment3.target=int\ nummayormenor()
+numComments=4

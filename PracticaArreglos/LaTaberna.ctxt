@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=LaTaberna
+comment1.params=tam
+comment1.target=LaTaberna(int)
+comment2.params=nuevo
+comment2.target=boolean\ agregarSue\u00F1o(Sue\u00F1os)
+comment3.params=buscado
+comment3.target=boolean\ eliminarSue\u00F1o(Sue\u00F1os)
+numComments=4

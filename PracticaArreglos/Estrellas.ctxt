@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Estrellas
+comment1.params=
+comment1.target=Estrellas()
+comment2.params=valor
+comment2.target=boolean\ agregarElemento(int)
+numComments=3
