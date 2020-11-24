@@ -1,19 +1,21 @@
 public class Estrellas{
-    private int luminosidad[];
-    private int index;
-    public Estrellas (){
-        luminosidad = new int [10];
-        index=0;
+    private int luminosidadImpar[];
+    public Estrellas(){
+        luminosidadImpar = new int [5];
     }
-    public boolean agregarElemento(int valor){
-        boolean res =false;
-        if(index < luminosidad.length){
-            luminosidad[index]= valor;
-            index++;
-            res=true;
+    public Estrellas(int [] x){
+        luminosidadImpar = x;
+    }
+
+    public boolean agregarNumeros(int valor){
+        boolean res = false;   
+        for(int i=0;i<luminosidadImpar.length && res==false;i++){
+            if(luminosidadImpar[i]==0){
+                luminosidadImpar[i]=valor;
+                res=true;
+            }
         }
         return res;
     }
-    
 }
 

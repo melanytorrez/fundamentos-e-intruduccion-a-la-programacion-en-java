@@ -2,6 +2,8 @@
 comment0.target=Estrellas
 comment1.params=
 comment1.target=Estrellas()
-comment2.params=valor
-comment2.target=boolean\ agregarElemento(int)
-numComments=3
+comment2.params=x
+comment2.target=Estrellas(int[])
+comment3.params=valor
+comment3.target=boolean\ agregarNumeros(int)
+numComments=4
